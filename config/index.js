@@ -10,6 +10,7 @@ module.exports = {
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
+    //此项目没有使用vue cli的proxyTable前台跨域代理，采用的是后台配置跨域
     proxyTable: {},
 
     // Various Dev Server settings
