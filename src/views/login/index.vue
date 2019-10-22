@@ -59,7 +59,7 @@
         <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg" width="160" height="160" style="margin-top: 10px">
       </div>
       <span slot="footer" class="dialog-footer">
-    <el-button type="primary" @click="dialogConfirm">确定</el-button>
+        <el-button type="primary" @click="dialogConfirm">确定</el-button>
       </span>
     </el-dialog>
   </div>
